@@ -1,7 +1,4 @@
-# hello-world
-Just another repository
+# Hello-World for Gencyber
 
-Hi Humans!
-
-Patrick here, I like Java and Python (That's what I'm made of!).
-I've had tacos on the moon and find them far superior to earth tacos.
+Hey there! Have you heard about the Cybersecurity program at the University of Nebraska at
+Omaha? You should check it out!
